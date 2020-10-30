@@ -11,7 +11,7 @@ Jordan - Make ladder objects, platforms, Peach and Mario characters with animati
 
 Luke - Make background, fire and hammer objects with animation, climbing up ladder animation, keep track of score.
 
-Jalen - Makes barrel objects, Donkey Kong and barrel animation, transition between levels.
+Jalen - Makes barrel objects, Donkey Kong and barrel animation, transition between levels, Mario's lives.
 
 PROGRESS
 
