@@ -5,6 +5,13 @@ ABSTRACT
 
 SKETCH
 
+
+!.[.].(Images/VR-Project-2-Design1.png)
+
+
+!.[.].(Images/VR-Project-2-Design2.png)
+
+
 CONTRIBUTION
 
 Jordan - Make ladder objects, platforms, Peach and Mario characters with animation, intro menu.
