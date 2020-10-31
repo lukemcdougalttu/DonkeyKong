@@ -6,10 +6,10 @@ ABSTRACT
 SKETCH
 
 
-!.[.].(Images/VR-Project-2-Design1.png)
+![](Images/VR-Project-2-Design1.png)
 
 
-!.[.].(Images/VR-Project-2-Design2.png)
+![](Images/VR-Project-2-Design2.png)
 
 
 CONTRIBUTION
